@@ -1,0 +1,39 @@
+body {
+
+  background-color: #f8f9fa;
+
+}
+
+
+
+.card {
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+.card-header {
+
+  background-color: #f8f9fa;
+
+  border-bottom: 2px solid #dee2e6;
+
+}
+
+
+
+.table {
+
+  margin-bottom: 0;
+
+}
+
+
+
+.btn {
+
+  min-width: 120px;
+
+}
